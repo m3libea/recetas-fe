@@ -1,0 +1,1 @@
+Recetas.ApplicationAdapter = DS.FixtureAdapter;
